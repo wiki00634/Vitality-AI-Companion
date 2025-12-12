@@ -1,4 +1,4 @@
-// 這是我的第一次提交練習import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect } from 'react';
 import { AppView, Meal, WaterLog, ChatMessage, JournalEntry } from './types';
 import { Navigation } from './components/Navigation';
 import { Dashboard } from './components/Dashboard';
